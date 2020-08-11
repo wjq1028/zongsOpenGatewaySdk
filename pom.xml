@@ -11,7 +11,17 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
     <artifactId>open-gateway-sdk</artifactId>
+    
+    <url>https://github.com/wjq1028/zongsOpenGatewaySdk</url>
 
+    <developers>
+        <developer>
+            <email>wangjianqiao@zongs365.com</email>
+            <name>wangjianqiao</name>
+            <url>https://github.com/wjq1028</url>
+        </developer>
+    </developers>
+    
     <dependencies>
         <dependency>
             <groupId>com.alibaba</groupId>
